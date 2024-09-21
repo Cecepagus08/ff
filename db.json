@@ -1,9 +1,25 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+    "postingan": [
+        {
+            "id": 1,
+            "nama": "Weather Web",
+            "deskripsi": "A website to check the weather in an area directly.",
+            "gambar": "assets/weather-app.jpg",
+            "bahasaPemrograman": [
+                {
+                    "icon": "https://i.ibb.co/9trf1pK/20240921-112250.png",
+                    "alt": "HTML Icon"
+                },
+                {
+                    "icon": "https://i.ibb.co/7nLJKp9/20240921-112848.png",
+                    "alt": "CSS Icon"
+                },
+                {
+                    "icon": "https://i.ibb.co/cTCp8MP/20240921-112737.png",
+                    "alt": "JavaScript Icon"
+                }
+            ],
+            "link": "https://weather-app-nine-blush.vercel.app/"
+        }
+    ]
 }
