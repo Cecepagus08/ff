@@ -1,25 +1,65 @@
 {
-    "postingan": [
+  "portofolio": {
+    
+      "id": "1",
+      "nama": "Cecep Agus",
+      "hoby": "coding",
+      "tempatTinggal": "Palangkaraya, Kalimantan Tengah",
+      "kelas": "X RPL 2",
+      "about": "lordjjdjdjd dhdhdhhdd dhhdhdbd dhdh",
+      "bahasaYangDikuasai": [
         {
-            "id": 1,
-            "nama": "Weather Web",
-            "deskripsi": "A website to check the weather in an area directly.",
-            "gambar": "assets/weather-app.jpg",
-            "bahasaPemrograman": [
-                {
-                    "icon": "https://i.ibb.co/9trf1pK/20240921-112250.png",
-                    "alt": "HTML Icon"
-                },
-                {
-                    "icon": "https://i.ibb.co/7nLJKp9/20240921-112848.png",
-                    "alt": "CSS Icon"
-                },
-                {
-                    "icon": "https://i.ibb.co/cTCp8MP/20240921-112737.png",
-                    "alt": "JavaScript Icon"
-                }
-            ],
-            "link": "https://weather-app-nine-blush.vercel.app/"
+          "icon": "https://i.ibb.co.com/FY4NgXM/20240921-112507.png",
+          "alt": "HTML Icon"
+        },
+        {
+          "icon": "https://i.ibb.co.com/cLrpZyf/20240921-112250.png",
+          "alt": "JavaScript Icon"
+        },
+        {
+          "icon": "https://i.ibb.co.com/phmk1m9/20240921-112537.png",
+          "alt": "CSS Icon"
+        },
+        {
+          "icon": "https://i.ibb.co.com/sbyDcFW/20240921-112814.png",
+          "alt": "Bootstrap Icon"
+        },
+        {
+          "icon": "https://i.ibb.co.com/rycLpTg/20240921-112737.png",
+          "alt": "React Icon"
+        },
+        {
+          "icon": "https://i.ibb.co.com/WkjWfzT/20240921-112848.png",
+          "alt": "Tailwind Icon"
+        },
+        {
+          "icon": "https://i.ibb.co.com/BGmZdvS/20240921-112620.png",
+          "alt": "Python Icon"
         }
-    ]
+      ],
+      "postingan": [
+        {
+          "id": "1",
+          "nama": "Weather Web",
+          "deskripsi": "A website to check the weather in an area directly.",
+          "gambar": "assets/weather-app.jpg",
+          "bahasaPemrograman": [
+            {
+              "icon": "https://i.ibb.co/9trf1pK/20240921-112250.png",
+              "alt": "HTML Icon"
+            },
+            {
+              "icon": "https://i.ibb.co/7nLJKp9/20240921-112848.png",
+              "alt": "CSS Icon"
+            },
+            {
+              "icon": "https://i.ibb.co/cTCp8MP/20240921-112737.png",
+              "alt": "JavaScript Icon"
+            }
+          ],
+          "link": "https://weather-app-nine-blush.vercel.app/"
+        }
+      ]
+    
+  }
 }
